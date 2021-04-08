@@ -1,4 +1,4 @@
-function showTime() {
+function startClock() {
   date = new Date();
   var hour = date.getHours();
   var min = date.getMinutes();
@@ -22,4 +22,4 @@ function showTime() {
   setTimeout(showTime, 1000); 
 }
 
-showTime();
+startClock();
