@@ -1,5 +1,5 @@
 # JavaScript
-Compilation of simple JS projects that I've worked on.
+This is a collection of simple JS projects I've worked on. Since these are all smaller use cases, I thought it would make more sense to club them under one repository. If you want to know more of what to expect from this codebase, here is a quick description of the projects and a screenshot showing how they look.
 
 <br />
 
