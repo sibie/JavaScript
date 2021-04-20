@@ -13,7 +13,7 @@ If you want to know more of what to expect from this codebase, here is a quick d
 
 ![ScreenShot](img/calculator.PNG)
 
-<br />
+<br /><br />
 
 + **Currency Convertor** - Converts user input value into the corresponding value in another currency.
 
@@ -21,7 +21,7 @@ If you want to know more of what to expect from this codebase, here is a quick d
 
 ![ScreenShot](img/currency-convertor.PNG)
 
-<br />
+<br /><br />
 
 + **Digital Clock** - Real-time clock that displays the time digitally.
 
@@ -29,7 +29,7 @@ If you want to know more of what to expect from this codebase, here is a quick d
 
 ![ScreenShot](img/digital-clock.PNG)
 
-<br />
+<br /><br />
 
 + **Reddit Posts** - Retrieves and displays the latest reddit posts from r/WorldNewsHeadlines.
 
@@ -37,7 +37,7 @@ If you want to know more of what to expect from this codebase, here is a quick d
 
 ![ScreenShot](img/reddit-posts.PNG)
 
-<br />
+<br /><br />
 
 + **Stopwatch** - Simple JS stopwatch.
 
@@ -45,7 +45,7 @@ If you want to know more of what to expect from this codebase, here is a quick d
 
 ![ScreenShot](img/stopwatch.PNG)
 
-<br />
+<br /><br />
 
 + **Survey** - A simple survey made with JS. Includes some simple animations such as screen-fade when changing questions.
 
