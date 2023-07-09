@@ -1,5 +1,5 @@
 # JavaScript
-This is a collection of simple JS projects I've worked on. Since these are all smaller use cases, I thought it would make more sense to club them under one repository. 
+This is a collection of simple JS projects I did in my free time. Since these are all smaller use cases, I thought it would make more sense to club them under one repository. 
 
 <br />
 
